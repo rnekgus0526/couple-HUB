@@ -1,0 +1,16 @@
+{
+  "name": "태환 & 선영 커플 허브",
+  "short_name": "커플 허브",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff7f8",
+  "theme_color": "#fff7f8",
+  "icons": [
+    {
+      "src": "/heart-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
